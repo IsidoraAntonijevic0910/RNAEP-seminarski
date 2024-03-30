@@ -1,0 +1,24 @@
+.otherproducts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 80vh;
+}
+.otherproducts h1{
+    color: #171717;
+    font-size: 35px;
+    font-weight: 600;
+}
+.otherproducts hr{
+    width: 100px;
+    height: 5px;
+    border-radius: 10px;
+    background: #252525;
+}
+.otherproducts-item{
+    margin-top: 40px;
+    display: flex;
+    gap: 30px;
+
+}

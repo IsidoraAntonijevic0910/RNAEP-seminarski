@@ -1,0 +1,16 @@
+.content-container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+}
+.app-container{
+  margin-top: 20px;
+  align-items: center;
+}
+.app-container small{
+  align-items: center;
+  display: flex;
+  justify-items: center;
+}
+

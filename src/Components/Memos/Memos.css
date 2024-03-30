@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+.container-fluid {
+  margin-left: 120px;
+}
+.button-see-reviews {
+  background-color: pink; 
+  color: white; 
+  padding: 10px 20px; 
+  border: white; 
+  border-radius: 10px; 
+  cursor: pointer; 
+  margin-top: 20px; 
+  font-size: 18px; 
+}
+.button-see-reviews:hover {
+  background-color: #bc5f8d; 
+}
